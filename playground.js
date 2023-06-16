@@ -39,7 +39,7 @@ function listNFTS () {
 }    
 // print the total number of NFTS we have minted to the console
 function getTotalSupply(){ 
-    console.log("\n" + catNFTs.length);
+    console.log("\nTotal Supply: " + catNFTs.length);
 }
 
 // call your functions below this line mintNFT("Bob", "Blue", "Hoodie", "Gold Chain");
