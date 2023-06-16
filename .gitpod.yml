@@ -1,1 +1,2 @@
-touch .gitpod.yml
+image:
+  file: .gitpod.Dockerfile
