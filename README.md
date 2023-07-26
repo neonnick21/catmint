@@ -1,9 +1,10 @@
 # catmint
-JS beginner code demonstrating introductory javascript coding
+JS beginner code demonstrating introductory javascript coding.
 
 js file: catNFT.js
 
 # catmint token contract
-Solidity code demonstrating minting/burning tokens with conditionals.
+Solidity beginner code demonstrating introductory solidity coding.
+(mint and burn tokens with address)
 
 sol file: catmintContract.sol
