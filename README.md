@@ -1,13 +1,13 @@
 # catmint
 JS beginner code demonstrating introductory javascript coding.
-(run using gitpod)
-js file: catNFT.js
+- (run using gitpod)
+- js file: catNFT.js
 
 # catmint token contract
 
 Solidity beginner code demonstrating introductory solidity coding.
-(mint and burn tokens with address)
-sol file: catmintContract.sol
+- (mint and burn tokens with address)
+- sol file: catmintContract.sol
 
 ## Description
 
@@ -25,9 +25,9 @@ To compile the code, click on the "Solidity Compiler" tab in the left-hand sideb
 Once the code is compiled, you can deploy the contract by clicking on the "Deploy & Run Transactions" tab in the left-hand sidebar, then click on the "Deploy" button.
 
 Once the contract is deployed, you can interact with it by clicking the buttons and calling functions. Click on the deployed contract in the left-hand sidebar, and then click on either the
--"totalSupply" to view the current supply, 
--"tokenName" to see the specified name, 
--and "tokenAbbrv" to view the token abbreviation. 
+- "totalSupply" to view the current supply, 
+- "tokenName" to see the specified name, 
+- and "tokenAbbrv" to view the token abbreviation. 
 
 To start using the functions, we require an address. This is located above the deployed contract in the left-hand sidebar. Copy the address, then locate and click the dropdown on the catmint button on the deployed contract still at the left-hand sidebar. Paste the address and enter how many you want to mint, then press transact.
 
