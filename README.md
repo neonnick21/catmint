@@ -11,7 +11,7 @@ Solidity beginner code demonstrating introductory solidity coding.
 
 ## Description
 
-A contract written in solidity. The contract has two main functions, minting and burning tokens. We can also specify its name, abbreviation, and its total supply. Solely for learning purposes, this program demonstrates smart contracts programming on blockchain with ethereum.
+A contract written in solidity. The contract has two main functions, minting and burning tokens. We can also specify its name, abbreviation, and its total supply. Solely for learning purposes, this program demonstrates smart contracts programming on blockchain with ethereum with the use of Remix Solidity IDE.
 
 ## Getting Started
 
