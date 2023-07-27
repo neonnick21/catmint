@@ -1,13 +1,17 @@
 # catmint
 JS beginner code demonstrating introductory javascript coding.
-- (run using gitpod)
-- js file: catNFT.js
+
+(run using gitpod)
+
+js file: catNFT.js
 
 # catmint token contract
 
 Solidity beginner code demonstrating introductory solidity coding.
-- (mint and burn tokens with address)
-- sol file: catmintContract.sol
+
+(mint and burn tokens with address)
+
+sol file: catmintContract.sol
 
 ## Description
 
@@ -38,8 +42,8 @@ The same goes for the catburn function, just copy and paste the address and spec
 Contributors names and contact info
 
 Hiljenicho Bona
-neonnick21@gmail.com / hmsbona@mymail.mapua.edu.ph
 
+neonnick21@gmail.com / hmsbona@mymail.mapua.edu.ph
 
 ## License
 
